@@ -1,5 +1,5 @@
 # About Me:
-I'm a Full Stack Developer passionate about creating responsive, user-friendly web applications for every screen size. I build, learn, and improve through real-world projects with a focus on clean code, solid fundamentals, and great user experiences.<br>
+I'm a FullStack Developer focused on building responsive, scalable web applications with clean code and solid fundamentals. Specialized in designing secure data architectures and resilient authentication systems, utilizing JWT rotation and fast caching layers to deliver seamless user experiences without compromising data privacy.<br>
 
 
 ## Socials:
